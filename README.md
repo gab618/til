@@ -14,3 +14,13 @@ ___
 
 ## Node.js
 * [Using multer to upload files](nodejs/multer-tutorial.md)
+* [JWT authentication](nodejs/jsonwebtoken.md)
+
+___
+
+## Other TIL Collections
+Inspired by
+
+* [@thoughtbot](https://github.com/thoughtbot/til)
+* [@jbranchaud](https://github.com/jbranchaud/til)
+* [@aweekj](https://github.com/aweekj/TIL)
