@@ -8,9 +8,13 @@ Uma coletânia dos meus pequenos aprendizados do dia-a-dia em diversas linguagen
 
 ### Categories
 
+* [Javascript](#javascript)
 * [Node.js](#node.js)
 
 ___
+
+## Javascript
+* [filter() method](javascript/filter.md)
 
 ## Node.js
 * [Using multer to upload files](nodejs/multer-tutorial.md)
