@@ -15,6 +15,7 @@ ___
 
 ## Javascript
 * [filter() method](javascript/filter.md)
+* [map() method](javascript/map-method.md)
 
 ## Node.js
 * [Using multer to upload files](nodejs/multer-tutorial.md)
