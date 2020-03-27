@@ -18,6 +18,7 @@ ___
 * [filter() method](javascript/filter.md)
 * [map() method](javascript/map-method.md)
 * [Format number as currency](javascript/format-number-as-currency.md)
+* [Writing Unit Tests with Jest](javascript/jest-unit-test)
 
 ## Node.js
 * [Using multer to upload files](nodejs/multer-tutorial.md)
