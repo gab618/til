@@ -15,6 +15,7 @@ Uma coletânia dos meus pequenos aprendizados do dia-a-dia em diversas linguagen
 ___
 
 ## Javascript
+* [Compare dates (date-fns isBefore(), isAfter())](javascript/date-fns-isbefore-isafter.md)
 * [filter() method](javascript/filter.md)
 * [map() method](javascript/map-method.md)
 * [Format number as currency](javascript/format-number-as-currency.md)
