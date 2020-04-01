@@ -16,6 +16,7 @@ ___
 
 ## Javascript
 * [Compare dates (date-fns isBefore(), isAfter())](javascript/date-fns-isbefore-isafter.md)
+* [Format dates](javascript/date-fns-format-date.md)
 * [filter() method](javascript/filter.md)
 * [map() method](javascript/map-method.md)
 * [Format number as currency](javascript/format-number-as-currency.md)
