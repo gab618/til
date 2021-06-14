@@ -23,6 +23,7 @@
   - mkdir .ssh em /home/deploy
   - cp ~/.ssh/authorized_keys /home/deploy/.ssh
   - chown deploy:deploy authorized_keys
+- Timezone: timedatectl set-timezone "America/Sao_Paulo"
 - Instalar Node e npm
   - [Node.js binart distributions](https://github.com/nodesource/distributions/blob/master/README.md)
     -Sessão ssh longa
